@@ -1,10 +1,14 @@
-# profile
+# Profile Card
 
-A new Flutter project.
+Flutter Web App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple profile UI based on neumorphic design.
+
+To use this project, you need to add following dependencies to the file 'pubspec.yaml'.
+- font_awesome_flutter: ^8.8.1
+- google_fonts: ^1.1.0
 
 A few resources to get you started if this is your first Flutter project:
 
